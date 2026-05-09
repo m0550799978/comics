@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+gradio
+huggingface_hub
+Pillow
+arabic_reshaper
+python-bidi
+requests
